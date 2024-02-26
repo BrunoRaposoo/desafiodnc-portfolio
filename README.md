@@ -22,8 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto desenvolvido para criar um site portfólio no desafio 3 da escola DNC. <br> <br>
-Para acessar o projeto clique [AQUI]() <br>
-Ou acesse o site 
+Para acessar o projeto clique [AQUI](https://euphonious-sunflower-dda60b.netlify.app/) <br>
+Ou acesse o site https://euphonious-sunflower-dda60b.netlify.app/
 
 ## 🔖 Layout
 
