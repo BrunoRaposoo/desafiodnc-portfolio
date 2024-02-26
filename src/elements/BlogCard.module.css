@@ -1,0 +1,21 @@
+.blogContent {
+  padding: 24px 21px;
+  background-color: #FFF;
+}
+
+.description {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  gap: 50px;
+}
+.description p {
+  font-size: 18px;
+  color: #21243D;
+  margin-bottom: 15px;
+}
+
+.blogContent p {
+  font-size: 16px;
+  color: #21243D;
+}

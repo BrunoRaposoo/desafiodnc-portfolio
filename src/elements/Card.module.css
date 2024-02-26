@@ -1,0 +1,35 @@
+.card {
+  width: 65%;
+  display: flex;
+  align-items: start;
+  gap: 60px;
+  margin: 45px 0;
+  padding-bottom: 35px;
+  border-bottom: 1px solid #E0E0E0;
+}
+
+.card img {
+  transition-duration: 200ms;
+}
+
+.card img:hover {
+  transform: scale(1.1);
+  transition-duration: 200ms;
+}
+
+.projectDescription {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.projectDescription h1 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #21243D;
+}
+
+.projectDescription p {
+  font-size: 16px;
+  color: #21243D;
+}

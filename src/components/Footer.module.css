@@ -1,0 +1,29 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 180px;
+  gap: 30px;
+}
+
+.footer ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 35px;
+}
+
+.footer ul li {
+  transition-duration: 500ms;
+}
+
+.footer ul li a {
+  color: #21243D;
+  cursor: pointer;
+}
+
+.footer ul li:hover {
+  transform: rotate(360deg);
+  transition-duration: 500ms;
+}
